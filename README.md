@@ -1,1 +1,0 @@
-# Data-MPDW_Sementara
